@@ -1,9 +1,5 @@
 <img style="margin: 0 auto" src="https://i.pinimg.com/originals/72/e6/46/72e6460ad2110551c7a685db4c57e6f7.gif" height="200">
 
-### Contact
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabriellima.glgs@gmail.com)](mailto:gabriellima.glgs@gmail.com)
-
 ### About
 
 :computer: I’m currently learning JavaScript and Python.
