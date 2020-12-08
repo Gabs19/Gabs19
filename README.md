@@ -1,6 +1,12 @@
-### Hello there!
+<img style="margin: 0 auto" src="https://i.pinimg.com/originals/72/e6/46/72e6460ad2110551c7a685db4c57e6f7.gif" height="200">
 
-🌱 I’m currently learning JavaScript and Python.
+### Contact
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabriellima.glgs@gmail.com)](mailto:gabriellima.glgs@gmail.com)
+
+### About
+
+:computer: I’m currently learning JavaScript and Python.
 
 ![Gabs19 Status](https://github-readme-stats.vercel.app/api?username=gabs19&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabs19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
