@@ -4,8 +4,8 @@
 
 :computer: I’m currently learning JavaScript and Python.
 
-![Gabs19 Status](https://github-readme-stats.vercel.app/api?username=gabs19&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabs19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Gabs19 Status](https://github-readme-stats.vercel.app/api?username=gabs19&show_icons=true&theme=tokyonight)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabs19&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
